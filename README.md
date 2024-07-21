@@ -2,7 +2,6 @@
 <center><img src=./logo.jpg width="auto" height="200px" /></center>
 안녕하세요 저는 프론트엔드를 공부하고 있는 최윤성입니다.<br/><br/>
 저는 컴퓨터 전공입니다.<br/><br/>
-
 <br/>
 <br/>
 <a href="https://github.com/aebonlee" target="_blank">
