@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%" height="auto"/>
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi,%20my%20name%20is%20Yunsung&textBg=false&section=header&reversal=false&fontAlign=50)
 
 ## 안녕하세요! 👋
 저는 프론트엔드 개발을 공부하고 있는 **최윤성**입니다.<br />
@@ -12,19 +12,36 @@
 <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b" alt="Instagram" />
 </a>
 
+---
 
 ### 🛠 Skills
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/> 
-<img src="https://img.shields.io/badge/JavaScript-F7Df1E?style=flat&logo=JavaScript&logoColor=white"/> 
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/> 
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white"/> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> 
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faebonlee%2Fhit-counter&count_bg=%239119C2&title_bg=%23131212&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+#### **Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7Df1E?style=flat&logo=JavaScript&logoColor=white) 
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white) 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=Tailwind%20CSS&logoColor=white)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
+
+#### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=Express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=TypeScript&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
+
+#### **Tools & Platforms**
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white) 
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white)
+
+---
+
+[![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcho1ys%2Fhit-counter&count_bg=%23667DCC&title_bg=%2394EDFC&icon=&icon_color=%23000000&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&textBg=false&section=footer&reversal=false&fontAlign=50)
