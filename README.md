@@ -5,21 +5,13 @@
 컴퓨터 공학을 전공하였고, 지속적으로 배우며 성장하고 있습니다. <br /><br />
 
 ### 🌐 Socials
-<a href="https://github.com/aebonlee" target="_blank">
+<a href="https://github.com/cho1ys" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://www.linkedin.com/in/aebon" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://www.facebook.com/aebon.lee" target="_blank">
-<img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-</a>
-<a href="https://instagram.com/aebonlee" target="_blank">
+<a href="https://instagram.com/cho1ys" target="_blank">
 <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b" alt="Instagram" />
 </a>
-<a href="https://twitter.com/leeaebon" target="_blank">
-<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
+
 
 ### 🛠 Skills
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> 
