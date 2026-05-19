@@ -1,8 +1,6 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi,%20my%20name%20is%20Yunsung&textBg=false&section=header&reversal=false&fontAlign=50)
-
 ## 안녕하세요! 👋
-저는 프론트엔드 개발을 공부하고 있는 **최윤성**입니다.<br />
-컴퓨터 공학을 전공하였고, 지속적으로 배우며 성장하고 있습니다. <br /><br />
+꾸준히 배우고 성장하며, 더 나은 사용자 경험을 만드는 최윤성입니다.
+새로운 기술을 탐구하고 직접 구현해보는 과정을 즐깁니다. 🚀
 
 ### 🌐 Socials
 <a href="https://github.com/cho1ys" target="_blank">
@@ -10,6 +8,9 @@
 </a>
 <a href="https://instagram.com/cho1ys" target="_blank">
 <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b" alt="Instagram" />
+</a>
+<a href="https://velog.io/@yschoi0119/posts" target="_blank">
+<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog\&logoColor=white" alt="Velog" />
 </a>
 
 ---
@@ -43,5 +44,3 @@
 - ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white)
 
   ---
-
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&textBg=false&section=footer&reversal=false&fontAlign=50)
